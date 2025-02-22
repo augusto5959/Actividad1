@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "nombre": "iPhone 14 Pro",
+      "precio": 1099,
+      "stock": 25,
+      "descripcion": "El último iPhone con cámara mejorada y pantalla ProMotion.",
+      "imagen": "https://img.freepik.com/psd-gratis/mockup-pixel-7-pro-google_1332-60682.jpg?t=st=1740186447~exp=1740190047~hmac=cb1f59e9450740aede5341c5a178c3ef1fd9e433a44aab244273b7bb30aba65b&w=1800"
+    },
+    {
+      "id": 2,
+      "nombre": "Samsung Galaxy S23",
+      "precio": 999,
+      "stock": 30,
+      "descripcion": "Celular premium con diseño elegante y rendimiento excepcional.",
+      "imagen": "https://img.freepik.com/vector-gratis/realista-telefono-inteligente-blanco-frontal-posterior_52683-29903.jpg?t=st=1740186265~exp=1740189865~hmac=35fd7c22f2be29414e8249dbabd5568ae5c29178e044e6d1831bd3532f8b7277&w=1800"
+    },
+    {
+      "id": 3,
+      "nombre": "Google Pixel 7",
+      "precio": 899,
+      "stock": 20,
+      "descripcion": "Experiencia Android pura con inteligencia artificial integrada.",
+      "imagen": "https://img.freepik.com/vector-gratis/smartphone-realista-dos-camaras-diferentes-vistas_23-2148324134.jpg?t=st=1740186417~exp=1740190017~hmac=c77a6c2a1fb62f9148a4e0c1c94f0c0dc06500fb1a07e162d3471817e67209f1&w=1800"
+    },
+    {
+      "id": 4,
+      "nombre": "OnePlus 11",
+      "precio": 849,
+      "stock": 15,
+      "descripcion": "Potencia y velocidad en un diseño minimalista.",
+      "imagen": "https://img.freepik.com/psd-gratis/mockup-pixel-7-pro-google_1332-60682.jpg?t=st=1740186447~exp=1740190047~hmac=cb1f59e9450740aede5341c5a178c3ef1fd9e433a44aab244273b7bb30aba65b&w=1800"
+    },
+    {
+      "id": 5,
+      "nombre": "Xiaomi Mi 13",
+      "precio": 749,
+      "stock": 40,
+      "descripcion": "Gran relación calidad-precio con tecnología de vanguardia.",
+      "imagen": "https://img.freepik.com/vector-gratis/realista-telefono-inteligente-blanco-frontal-posterior_52683-29903.jpg?t=st=1740186265~exp=1740189865~hmac=35fd7c22f2be29414e8249dbabd5568ae5c29178e044e6d1831bd3532f8b7277&w=1800"
+    },
+    {
+      "id": 6,
+      "nombre": "Motorola Edge 40",
+      "precio": 699,
+      "stock": 35,
+      "descripcion": "Diseño curvo y rendimiento sólido para multitarea.",
+      "imagen": "https://img.freepik.com/vector-gratis/smartphone-realista-dos-camaras-diferentes-vistas_23-2148324134.jpg?t=st=1740186417~exp=1740190017~hmac=c77a6c2a1fb62f9148a4e0c1c94f0c0dc06500fb1a07e162d3471817e67209f1&w=1800"
+    },
+    {
+      "id": 7,
+      "nombre": "Huawei P50 Pro",
+      "precio": 950,
+      "stock": 10,
+      "descripcion": "Excelente cámara y rendimiento en un elegante dispositivo.",
+      "imagen": "https://img.freepik.com/psd-gratis/mockup-pixel-7-pro-google_1332-60682.jpg?t=st=1740186447~exp=1740190047~hmac=cb1f59e9450740aede5341c5a178c3ef1fd9e433a44aab244273b7bb30aba65b&w=1800"
+    },
+    {
+      "id": 8,
+      "nombre": "Sony Xperia 1 IV",
+      "precio": 1199,
+      "stock": 8,
+      "descripcion": "Pantalla 4K y tecnología de cámara de nivel profesional.",
+      "imagen": "https://img.freepik.com/vector-gratis/realista-telefono-inteligente-blanco-frontal-posterior_52683-29903.jpg?t=st=1740186265~exp=1740189865~hmac=35fd7c22f2be29414e8249dbabd5568ae5c29178e044e6d1831bd3532f8b7277&w=1800"
+    },
+    {
+      "id": 9,
+      "nombre": "LG Velvet",
+      "precio": 599,
+      "stock": 22,
+      "descripcion": "Diseño sofisticado con rendimiento y conectividad avanzada.",
+      "imagen": "https://img.freepik.com/vector-gratis/smartphone-realista-dos-camaras-diferentes-vistas_23-2148324134.jpg?t=st=1740186417~exp=1740190017~hmac=c77a6c2a1fb62f9148a4e0c1c94f0c0dc06500fb1a07e162d3471817e67209f1&w=1800"
+    },
+    {
+      "id": 10,
+      "nombre": "Nokia X20",
+      "precio": 499,
+      "stock": 50,
+      "descripcion": "Construido para durar, con enfoque en la sostenibilidad y el rendimiento.",
+      "imagen": "https://img.freepik.com/psd-gratis/mockup-pixel-7-pro-google_1332-60682.jpg?t=st=1740186447~exp=1740190047~hmac=cb1f59e9450740aede5341c5a178c3ef1fd9e433a44aab244273b7bb30aba65b&w=1800"
+    }
+  ]
+  

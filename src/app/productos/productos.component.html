@@ -1,0 +1,27 @@
+<p class="text-2xl font-bold text-gray-800 mb-4 flex justify-center pt-8">Listado de Productos</p>
+<div class="overflow-x-auto pl-4 pr-4 flex justify-center">
+<table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden pl-4">
+    <thead>
+    <tr class="bg-blue-900 text-white">
+        <th class="px-6 py-3 text-left uppercase tracking-wider">ID</th>
+        <th class="px-6 py-3 text-left uppercase tracking-wider">Nombre</th>
+        <th class="px-6 py-3 text-left uppercase tracking-wider">Precio</th>
+        <th class="px-6 py-3 text-left uppercase tracking-wider">Stock</th>
+        <th class="px-6 py-3 text-left uppercase tracking-wider">Descripción</th>
+        <th class="px-6 py-3 text-center uppercase tracking-wider">Imagen</th>
+    </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+    <tr *ngFor="let producto of productos" class="hover:bg-gray-100">
+        <td class="px-6 py-4 whitespace-nowrap">{{ producto.id }}</td>
+        <td class="px-6 py-4 whitespace-nowrap">{{ producto.nombre }}</td>
+        <td class="px-6 py-4 whitespace-nowrap font-medium text-gray-900">$ {{ producto.precio }}</td>
+        <td class="px-6 py-4 whitespace-nowrap">{{ producto.stock }}</td>
+        <td class="px-6 py-4 whitespace-normal">{{ producto.descripcion }}</td>
+        <td class="px-6 py-4 whitespace-nowrap text-center">
+            <img [src]="producto.imagen" [alt]="producto.nombre" class="w-20 h-auto rounded-md mx-auto border border-gray-200">
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>
